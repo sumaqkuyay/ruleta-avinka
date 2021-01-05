@@ -4,7 +4,7 @@
     min-height: 500px;
     height: min-content;
     border-radius: 15px;
-    color: #1B5A4F;
+    color:#18643B;
     font-size: 25px;
     padding: 20px;
     box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
@@ -17,6 +17,9 @@
 .cupon{
   width: 300px;
   margin-left: -500px;
+}
+a{
+  text-decoration: none;
 }
 .restart-game{
   // width: 100%;

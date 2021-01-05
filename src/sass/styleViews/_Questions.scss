@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&family=Poppins&display=swap');
 body {
     display: flex;
     justify-content: center;
@@ -6,6 +7,8 @@ body {
 }
   
   .app {
+     
+    font-family: 'Poppins', sans-serif;
     // background-color: #39c477;
     background-image: url('../../images/FONDO.png');
     width: 590px;
@@ -42,7 +45,7 @@ body {
   .question-text {
     margin-bottom: 20px;
     color: #1B5A4F;
-    font-size: 22px;
+    font-size: 23px;
   }
   
   
@@ -52,9 +55,13 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    & a{
+      text-decoration: none;
+    }
   }
   
   button {
+    font-family: 'Poppins', sans-serif;
     width: 100%;
     font-size: 20px;
     color: #ffffff;

@@ -12,7 +12,7 @@ const Questions = () =>{
     const questions = [
 
 		{   category:"categoria1",
-			questionText: 'Artisan es: ________________',
+			questionText: 'Artisan es: ___________',
 			answerOptions: [
 				{ answerText: 'Nueva línea de pavos', isCorrect: false },
 				{ answerText: 'Nueva línea de pollos con crianza libre de antibióticos', isCorrect: true },
@@ -79,7 +79,7 @@ const Questions = () =>{
 			</div>
 			<div className='answer-section'>
 				{pregunta.answerOptions.map((answerOption) => (
-					<Link to={answerOption.isCorrect? "/winner" : "/loser"}>
+					<Link classname="gopage" to={answerOption.isCorrect? "/winner" : "/loser"}>
 					<button >{answerOption.answerText}</button>
 					</Link>
 				))}

@@ -1,12 +1,13 @@
 /* Header */
-
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
 .header{
+    font-family: 'Libre Caslon Text', serif;
     // max-width: 1024px;
     margin-top: 60px;
     margin-left: 100px;
     margin-right: 100px;
     background-image: url('../../images/FONDO.png');
-    color: white;
+    color: #18643B;
     // padding: 10px 12px 12px 220px;
     border-radius: .5em;
     display: flex;
