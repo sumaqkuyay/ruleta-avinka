@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ruleta-avinka/static/css/main.3f2a2552.chunk.css",
-    "main.js": "/ruleta-avinka/static/js/main.e7468846.chunk.js",
-    "main.js.map": "/ruleta-avinka/static/js/main.e7468846.chunk.js.map",
+    "main.css": "/ruleta-avinka/static/css/main.adf3504c.chunk.css",
+    "main.js": "/ruleta-avinka/static/js/main.92ea600b.chunk.js",
+    "main.js.map": "/ruleta-avinka/static/js/main.92ea600b.chunk.js.map",
     "runtime-main.js": "/ruleta-avinka/static/js/runtime-main.3a64bd11.js",
     "runtime-main.js.map": "/ruleta-avinka/static/js/runtime-main.3a64bd11.js.map",
     "static/js/2.151e3cec.chunk.js": "/ruleta-avinka/static/js/2.151e3cec.chunk.js",
@@ -10,11 +10,13 @@
     "static/js/3.a19cd6b4.chunk.js": "/ruleta-avinka/static/js/3.a19cd6b4.chunk.js",
     "static/js/3.a19cd6b4.chunk.js.map": "/ruleta-avinka/static/js/3.a19cd6b4.chunk.js.map",
     "index.html": "/ruleta-avinka/index.html",
-    "static/css/main.3f2a2552.chunk.css.map": "/ruleta-avinka/static/css/main.3f2a2552.chunk.css.map",
+    "static/css/main.adf3504c.chunk.css.map": "/ruleta-avinka/static/css/main.adf3504c.chunk.css.map",
     "static/js/2.151e3cec.chunk.js.LICENSE.txt": "/ruleta-avinka/static/js/2.151e3cec.chunk.js.LICENSE.txt",
     "static/media/Button.85bf46c6.svg": "/ruleta-avinka/static/media/Button.85bf46c6.svg",
     "static/media/index.scss": "/ruleta-avinka/static/media/Fondo-winner.e4a8415c.png",
     "static/media/RULETA.994db223.svg": "/ruleta-avinka/static/media/RULETA.994db223.svg",
+    "static/media/artisan-logo.3d7a3654.png": "/ruleta-avinka/static/media/artisan-logo.3d7a3654.png",
+    "static/media/avinka-logo.c853964c.png": "/ruleta-avinka/static/media/avinka-logo.c853964c.png",
     "static/media/cupon.b7b3b059.svg": "/ruleta-avinka/static/media/cupon.b7b3b059.svg",
     "static/media/logoArtisan.2a305771.png": "/ruleta-avinka/static/media/logoArtisan.2a305771.png",
     "static/media/win.3646a0fd.png": "/ruleta-avinka/static/media/win.3646a0fd.png"
@@ -22,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a64bd11.js",
     "static/js/2.151e3cec.chunk.js",
-    "static/css/main.3f2a2552.chunk.css",
-    "static/js/main.e7468846.chunk.js"
+    "static/css/main.adf3504c.chunk.css",
+    "static/js/main.92ea600b.chunk.js"
   ]
 }
