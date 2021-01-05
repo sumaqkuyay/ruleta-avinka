@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ruleta-avinka/static/css/main.adf3504c.chunk.css",
-    "main.js": "/ruleta-avinka/static/js/main.92ea600b.chunk.js",
-    "main.js.map": "/ruleta-avinka/static/js/main.92ea600b.chunk.js.map",
+    "main.css": "/ruleta-avinka/static/css/main.d3ab427d.chunk.css",
+    "main.js": "/ruleta-avinka/static/js/main.b3c41a75.chunk.js",
+    "main.js.map": "/ruleta-avinka/static/js/main.b3c41a75.chunk.js.map",
     "runtime-main.js": "/ruleta-avinka/static/js/runtime-main.3a64bd11.js",
     "runtime-main.js.map": "/ruleta-avinka/static/js/runtime-main.3a64bd11.js.map",
     "static/js/2.151e3cec.chunk.js": "/ruleta-avinka/static/js/2.151e3cec.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a19cd6b4.chunk.js": "/ruleta-avinka/static/js/3.a19cd6b4.chunk.js",
     "static/js/3.a19cd6b4.chunk.js.map": "/ruleta-avinka/static/js/3.a19cd6b4.chunk.js.map",
     "index.html": "/ruleta-avinka/index.html",
-    "static/css/main.adf3504c.chunk.css.map": "/ruleta-avinka/static/css/main.adf3504c.chunk.css.map",
+    "static/css/main.d3ab427d.chunk.css.map": "/ruleta-avinka/static/css/main.d3ab427d.chunk.css.map",
     "static/js/2.151e3cec.chunk.js.LICENSE.txt": "/ruleta-avinka/static/js/2.151e3cec.chunk.js.LICENSE.txt",
     "static/media/Button.85bf46c6.svg": "/ruleta-avinka/static/media/Button.85bf46c6.svg",
     "static/media/index.scss": "/ruleta-avinka/static/media/Fondo-winner.e4a8415c.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a64bd11.js",
     "static/js/2.151e3cec.chunk.js",
-    "static/css/main.adf3504c.chunk.css",
-    "static/js/main.92ea600b.chunk.js"
+    "static/css/main.d3ab427d.chunk.css",
+    "static/js/main.b3c41a75.chunk.js"
   ]
 }
