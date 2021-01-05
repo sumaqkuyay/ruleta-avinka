@@ -1,0 +1,10 @@
+@import "./styleComponents/Header";
+@import "./styleComponents/CountDownTimer";
+@import "./styleViews//Questions";
+@import "./styleViews/Roulette";
+@import "./styleViews/Winner";
+@import "./styleViews/Loser";
+
+body{
+  background-image: radial-gradient(circle at top,#45a371 20%, #1B5A4F 100%);
+}

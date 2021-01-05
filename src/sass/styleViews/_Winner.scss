@@ -1,0 +1,36 @@
+.winner {
+    background-image: url('../../images/Fondo-winner.png');
+    width: 650px;
+    min-height: 500px;
+    height: min-content;
+    border-radius: 15px;
+    color: #1B5A4F;
+    font-size: 25px;
+    padding: 20px;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+    display: flex;
+    justify-content: space-evenly;
+}
+.miniwinner{
+  width: 300px;
+}
+.cupon{
+  width: 300px;
+  margin-left: -500px;
+}
+.restart-game{
+  // width: 100%;
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 490px;
+  font-size: 24.5px;
+  color: #ffffff;
+  background-color: #1B5A4F;
+  border-radius: 10px;
+  display: flex;
+  padding: 20px;
+  // justify-content: flex-start;
+  // align-items: center;
+  // border: 2px solid #1d1d1d;
+  cursor: pointer;
+}
