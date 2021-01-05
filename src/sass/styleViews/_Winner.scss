@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&family=Poppins&display=swap');
 .winner {
+    font-family: 'Poppins', sans-serif;
+    
     background-image: url('../../images/Fondo-winner.png');
     width: 650px;
     min-height: 500px;
@@ -23,6 +26,7 @@ a{
 }
 .restart-game{
   // width: 100%;
+  font-family: 'Poppins', sans-serif;
   width: 200px;
   margin-top: 30px;
   margin-left: 490px;
@@ -36,4 +40,5 @@ a{
   // align-items: center;
   // border: 2px solid #1d1d1d;
   cursor: pointer;
+  
 }
