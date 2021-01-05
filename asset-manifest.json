@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ruleta-avinka/static/css/main.4518bb57.chunk.css",
+    "main.js": "/ruleta-avinka/static/js/main.54b66cc2.chunk.js",
+    "main.js.map": "/ruleta-avinka/static/js/main.54b66cc2.chunk.js.map",
+    "runtime-main.js": "/ruleta-avinka/static/js/runtime-main.3a64bd11.js",
+    "runtime-main.js.map": "/ruleta-avinka/static/js/runtime-main.3a64bd11.js.map",
+    "static/js/2.151e3cec.chunk.js": "/ruleta-avinka/static/js/2.151e3cec.chunk.js",
+    "static/js/2.151e3cec.chunk.js.map": "/ruleta-avinka/static/js/2.151e3cec.chunk.js.map",
+    "static/js/3.a19cd6b4.chunk.js": "/ruleta-avinka/static/js/3.a19cd6b4.chunk.js",
+    "static/js/3.a19cd6b4.chunk.js.map": "/ruleta-avinka/static/js/3.a19cd6b4.chunk.js.map",
+    "index.html": "/ruleta-avinka/index.html",
+    "static/css/main.4518bb57.chunk.css.map": "/ruleta-avinka/static/css/main.4518bb57.chunk.css.map",
+    "static/js/2.151e3cec.chunk.js.LICENSE.txt": "/ruleta-avinka/static/js/2.151e3cec.chunk.js.LICENSE.txt",
+    "static/media/Button.0b011df6.svg": "/ruleta-avinka/static/media/Button.0b011df6.svg",
+    "static/media/index.scss": "/ruleta-avinka/static/media/Fondo-winner.e4a8415c.png",
+    "static/media/RULETA.5c1e50e2.svg": "/ruleta-avinka/static/media/RULETA.5c1e50e2.svg",
+    "static/media/cupon.b7b3b059.svg": "/ruleta-avinka/static/media/cupon.b7b3b059.svg",
+    "static/media/logoArtisan.2a305771.png": "/ruleta-avinka/static/media/logoArtisan.2a305771.png",
+    "static/media/win.3646a0fd.png": "/ruleta-avinka/static/media/win.3646a0fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a64bd11.js",
+    "static/js/2.151e3cec.chunk.js",
+    "static/css/main.4518bb57.chunk.css",
+    "static/js/main.54b66cc2.chunk.js"
+  ]
+}
