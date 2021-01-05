@@ -12,7 +12,7 @@ const Questions = () =>{
     const questions = [
 
 		{   category:"categoria1",
-			questionText: 'Artisan es: ___________',
+			questionText: 'Artisan es:',
 			answerOptions: [
 				{ answerText: 'Nueva línea de pavos', isCorrect: false },
 				{ answerText: 'Nueva línea de pollos con crianza libre de antibióticos', isCorrect: true },
@@ -20,7 +20,7 @@ const Questions = () =>{
 			],
 		},
 		{   category:"categoria2",
-			questionText: 'La actriz del comercial de Artisan es:______________',
+			questionText: 'La actriz del comercial de Artisan es:',
 			answerOptions: [
 				{ answerText: 'Karen Schwarz', isCorrect: false },
 				{ answerText: 'Maria Pia Copello', isCorrect: false },
@@ -45,7 +45,7 @@ const Questions = () =>{
 			],
 		},
 		{   category:"categoria5",
-			questionText: 'Artisan se una marca de:',
+			questionText: 'Artisan es una marca de:',
 			answerOptions: [
 				{ answerText: 'Avinka', isCorrect: true },
 				{ answerText: 'Santa Elena', isCorrect: false },
