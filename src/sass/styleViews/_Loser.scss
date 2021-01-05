@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&family=Poppins&display=swap');
 .loser {
     background-image: url('../../images/FONDO.png');
     width: 650px;
+    font-family: 'Poppins', sans-serif;
     // min-height: 500px;
     // height: min-content;
     display: flex;
@@ -8,7 +10,7 @@
     align-items: center;
     border-radius: 15px;
     color: #1B5A4F;
-    font-size: 25px;
+    font-size: 22.5px;
     padding: 20px;
     box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
     flex-direction: column;
