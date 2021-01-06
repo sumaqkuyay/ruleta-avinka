@@ -37,7 +37,7 @@ class Roulette extends Component{
     //   result= (grados>value ? key: result)
     // })
     for(let [key,value] of rangos ){
-      result= (grados%360>value ? key: result)
+      result= (grados%360>=value ? key: result)
     };
     console.log(`${grados%360}:${result}`);
       // console.log(result);
