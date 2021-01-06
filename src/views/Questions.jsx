@@ -1,6 +1,7 @@
 import React from 'react';
 // import TimerDown from '../components/CountDownTimer';
 import marker from '../images/logoArtisan.png';
+import fraseArtisan from '../images/frase-artisan.png'
 import { Link } from 'react-router-dom';
 
 const Questions = () =>{
@@ -69,7 +70,9 @@ const Questions = () =>{
 	return (
         <>
 		{/* <TimerDown/> */}
-    
+		<div className="fraseArtisan">
+			<img src={fraseArtisan} alt="frase-artisan" />
+		</div>
 		<div className='app'>
 			<div className='question-section'>
 				<div className='question-text'>{pregunta.questionText}</div>
