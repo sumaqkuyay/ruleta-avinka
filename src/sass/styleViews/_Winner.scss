@@ -1,25 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&family=Poppins&display=swap');
 .winner {
     font-family: 'Poppins', sans-serif;
-    
+
     background-image: url('../../images/Fondo-winner.png');
     width: 650px;
-    min-height: 500px;
+    min-height: 450px;
     height: min-content;
     border-radius: 15px;
     color:#18643B;
-    font-size: 25px;
+    font-size: 26px;
     padding: 20px;
     box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
     display: flex;
     justify-content: space-evenly;
+    & h1{
+      margin-left: 18px;
+    }
 }
 .miniwinner{
   width: 300px;
 }
 .cupon{
+  margin-top: 100px;
   width: 300px;
-  margin-left: -500px;
+  margin-left: -600px;
 }
 a{
   text-decoration: none;
@@ -27,14 +31,14 @@ a{
 .restart-game{
   // width: 100%;
   font-family: 'Poppins', sans-serif;
-  width: 200px;
+  width: 250px;
   margin-top: 30px;
-  margin-left: 490px;
+  margin-left: 440px;
   font-size: 24.5px;
   color: #ffffff;
   background-color: #1B5A4F;
   border-radius: 10px;
-  display: flex;
+  // display: flex;
   padding: 20px;
   // justify-content: flex-start;
   // align-items: center;

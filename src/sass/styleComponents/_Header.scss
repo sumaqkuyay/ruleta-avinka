@@ -15,35 +15,51 @@
     border: 10px solid #18643B;
     box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
     & h1 {
-      font-size: 35px;
+      font-size: 25px;
       text-transform: uppercase;
     }
     & img{
-      margin-top: -30px;
-      width: 400px;
+      margin-top: -25px;
+      width: 340px;
     }
 }
 .avinkaHeader{
-  margin-top: -20px;
+  margin-top: -15px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   & img{
-    margin-top: 9px;
-    width: 200px;
-    height: 60px;
+    margin-top: 2px;
+    width: 150px;
+    height: 35px;
   }
   & h1 {
-    font-size: 35px;
+    font-size: 18px;
     text-transform: uppercase;
   }
 }
 
-//   @media screen and (min-width: 768px) {
-//     // padding: 24px;
-//     h1 {
-//       font-size: 36px;
-//       line-height: .9;
-//     }
-// }
+  @media screen and (min-width: 1025px) {
+    // padding: 24px;
+ .header{
+   &h1{
+    font-size: 35px;
+   }
+   & img{
+    margin-top: -23px;
+    width: 280px;
+  }
+ }
+ .avinkaHeader{
+  & img{
+    margin-top: 3px;
+    width: 100px;
+    height: 35px;
+  }
+  & h1 {
+    font-size: 19px;
+    text-transform: uppercase;
+  }
+}
+}
   

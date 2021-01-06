@@ -5,21 +5,42 @@
   text-align: center;
 }
 .element{
-  margin-top: -25px;
-  width: 450px;
+  margin-top: -30px;
+  width: 420px;
   transform: rotate(0deg);
   animation-name: spin;
   animation-duration: 5000ms;
 }
 .marker {
-  margin-top: -5px;
+  height: 70px;
+  margin-top: -2px;
   position: relative;
-  top: 50px;
+  top: 20px;
   margin-right: 13px;
   z-index: 2;
 }
 .button{
-  margin-top: 20px;
-  width: 300px;
+  margin-top: 10px;
+  width: 250px;
   cursor: pointer;
+}
+
+@media screen and (min-width: 1025px) {
+  // padding: 24px;
+  .element{
+   width:350px;
+  }
+  .marker {
+    height: 60px;
+    margin-top: -2px;
+    position: relative;
+    top: 20px;
+    margin-right: 13px;
+    z-index: 2;
+  }
+  .button{
+    margin-top: 15px;
+    width: 200px;
+    cursor: pointer;
+  }
 }

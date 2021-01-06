@@ -11,14 +11,14 @@ body {
     // margin-top: 10px;
     margin-right: 20px;
     margin-left: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     border: 2px solid #18643B;
     box-shadow: 5px 5px 42px 0px rgba(0, 0, 0, 0.75);
     border-radius: 15px;
     text-align: center;
     color:#1B5A4F;
     & img{
-      width: 500px;
+      width: 300px;
     }
 }
   
@@ -60,12 +60,12 @@ body {
   }
   
   .question-text {
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
     color: #1B5A4F;
-    font-size: 30px;
+    font-size: 25px;
   }
   
   
@@ -81,7 +81,7 @@ body {
   }
   
   button {
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 20px;
     font-family: 'Poppins', sans-serif;
     width: 100%;
@@ -90,7 +90,7 @@ body {
     background-color: #1B5A4F;
     border-radius: 10px;
     // display: flex;
-    padding: 20px;
+    padding: 18px;
     justify-content: flex-start;
     text-align: center;
     align-items: center;
@@ -122,8 +122,8 @@ body {
     // position: re;
     // // margin-left: 20px;
     height: 240px;
-    margin-top: 50px;
-    // z-index: 2;
-    margin-bottom: 50px;
+    // margin-top: 50px;
+    // // z-index: 2;
+    // margin-bottom: 50px;
   }
   
