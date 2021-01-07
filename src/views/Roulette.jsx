@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import spiner from '../images/RULETA.svg';
 import marker from '../images/marker.png';
 import button from '../images/Button.svg';
+import ruletaSonido from '../audio/ruleta_juego.mp3'
 
 class Roulette extends Component{
   constructor(props) {
@@ -10,10 +11,15 @@ class Roulette extends Component{
     this.state = {
       grados:0,
       categoria:0,
-      duration:5000,
+      duration:8000,
+      play: false,
     };
+    this.url = ruletaSonido;
+    this.audio = new Audio(this.url);
+    this.togglePlay = this.togglePlay.bind(this);
   }
   start =()=>{
+    this.togglePlay();
     let rangos = new Map();
     rangos.set("categoria1",0);
     rangos.set("categoria2",68);
@@ -50,8 +56,14 @@ class Roulette extends Component{
   nextste = (next)=> {
     this.props.history.push(`/questions?categoria=${next}`);
   };
-
- 
+  
+  togglePlay() {
+    const play =!(this.state.play);
+    console.log(this.audio);
+    play ? this.audio.play() : this.audio.pause();
+    this.setState({play});
+  }
+  
  render() {
   const {grados,duration}= this.state;
 
@@ -63,26 +75,13 @@ class Roulette extends Component{
     return(
       <>
       <div className="bodyRoulette">
-      <Header />
+        <Header />
         <img src={marker} className="marker" alt="marker" />
         <img src={spiner} className="element" style={style} grados={grados} alt="img-win"></img>
         <img src={button} className="button" alt="boton" onClick={this.start}/>
-        {/* <button className="button" onClick={this.start}>gira</button> */}
       </div>
       </>
     );
   }
 };
 export default Roulette;
-
-
-
-  // const [grados, setgrados] = useState(0);
-  
-  // rangos= {
-  //   zona1: 50,
-  //   zona2: 100,
-  //   zona3: 150,
-  //   zona4: 200,
-  //   zona5: 360,
-  // }
