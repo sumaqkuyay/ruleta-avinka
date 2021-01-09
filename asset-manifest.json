@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ruleta-avinka/static/css/main.fcbde42e.chunk.css",
-    "main.js": "/ruleta-avinka/static/js/main.9058397b.chunk.js",
-    "main.js.map": "/ruleta-avinka/static/js/main.9058397b.chunk.js.map",
+    "main.css": "/ruleta-avinka/static/css/main.33861b13.chunk.css",
+    "main.js": "/ruleta-avinka/static/js/main.a30ef345.chunk.js",
+    "main.js.map": "/ruleta-avinka/static/js/main.a30ef345.chunk.js.map",
     "runtime-main.js": "/ruleta-avinka/static/js/runtime-main.02c598e2.js",
     "runtime-main.js.map": "/ruleta-avinka/static/js/runtime-main.02c598e2.js.map",
     "static/js/2.6b4513ba.chunk.js": "/ruleta-avinka/static/js/2.6b4513ba.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.bf002a94.chunk.js": "/ruleta-avinka/static/js/3.bf002a94.chunk.js",
     "static/js/3.bf002a94.chunk.js.map": "/ruleta-avinka/static/js/3.bf002a94.chunk.js.map",
     "index.html": "/ruleta-avinka/index.html",
-    "static/css/main.fcbde42e.chunk.css.map": "/ruleta-avinka/static/css/main.fcbde42e.chunk.css.map",
+    "static/css/main.33861b13.chunk.css.map": "/ruleta-avinka/static/css/main.33861b13.chunk.css.map",
     "static/js/2.6b4513ba.chunk.js.LICENSE.txt": "/ruleta-avinka/static/js/2.6b4513ba.chunk.js.LICENSE.txt",
     "static/media/Button.85bf46c6.svg": "/ruleta-avinka/static/media/Button.85bf46c6.svg",
     "static/media/index.scss": "/ruleta-avinka/static/media/image-body.d0055db3.png",
     "static/media/RULETA.3c2ccbc1.svg": "/ruleta-avinka/static/media/RULETA.3c2ccbc1.svg",
     "static/media/artisan-logo.3d7a3654.png": "/ruleta-avinka/static/media/artisan-logo.3d7a3654.png",
     "static/media/cupon.53f4061c.svg": "/ruleta-avinka/static/media/cupon.53f4061c.svg",
-    "static/media/frase-artisan.6589383d.png": "/ruleta-avinka/static/media/frase-artisan.6589383d.png",
+    "static/media/frase-artisan.39ca092a.png": "/ruleta-avinka/static/media/frase-artisan.39ca092a.png",
     "static/media/game-over.1f3630e9.mp3": "/ruleta-avinka/static/media/game-over.1f3630e9.mp3",
     "static/media/logoArtisan.5ef7eee0.png": "/ruleta-avinka/static/media/logoArtisan.5ef7eee0.png",
     "static/media/ruleta_juego.ad776739.mp3": "/ruleta-avinka/static/media/ruleta_juego.ad776739.mp3",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.02c598e2.js",
     "static/js/2.6b4513ba.chunk.js",
-    "static/css/main.fcbde42e.chunk.css",
-    "static/js/main.9058397b.chunk.js"
+    "static/css/main.33861b13.chunk.css",
+    "static/js/main.a30ef345.chunk.js"
   ]
 }
